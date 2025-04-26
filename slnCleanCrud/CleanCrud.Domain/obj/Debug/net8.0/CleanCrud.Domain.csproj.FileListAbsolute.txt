@@ -1,0 +1,12 @@
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\bin\Debug\net8.0\CleanCrud.Domain.deps.json
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\bin\Debug\net8.0\CleanCrud.Domain.dll
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\bin\Debug\net8.0\CleanCrud.Domain.pdb
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\obj\Debug\net8.0\CleanCrud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\obj\Debug\net8.0\CleanCrud.Domain.AssemblyInfoInputs.cache
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\obj\Debug\net8.0\CleanCrud.Domain.AssemblyInfo.cs
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\obj\Debug\net8.0\CleanCrud.Domain.csproj.CoreCompileInputs.cache
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\obj\Debug\net8.0\CleanCrud.Domain.sourcelink.json
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\obj\Debug\net8.0\CleanCrud.Domain.dll
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\obj\Debug\net8.0\refint\CleanCrud.Domain.dll
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\obj\Debug\net8.0\CleanCrud.Domain.pdb
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Domain\obj\Debug\net8.0\ref\CleanCrud.Domain.dll

@@ -1,0 +1,16 @@
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\bin\Debug\net8.0\CleanCrud.Application.deps.json
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\bin\Debug\net8.0\CleanCrud.Application.dll
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\bin\Debug\net8.0\CleanCrud.Application.pdb
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\bin\Debug\net8.0\CleanCrud.Domain.dll
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\bin\Debug\net8.0\CleanCrud.Domain.pdb
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\CleanCrud.Application.csproj.AssemblyReference.cache
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\CleanCrud.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\CleanCrud.Application.AssemblyInfoInputs.cache
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\CleanCrud.Application.AssemblyInfo.cs
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\CleanCrud.Application.csproj.CoreCompileInputs.cache
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\CleanCrud.Application.sourcelink.json
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\CleanCru.695BB799.Up2Date
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\CleanCrud.Application.dll
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\refint\CleanCrud.Application.dll
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\CleanCrud.Application.pdb
+D:\github\repositories\clean-crud\slnCleanCrud\CleanCrud.Application\obj\Debug\net8.0\ref\CleanCrud.Application.dll
